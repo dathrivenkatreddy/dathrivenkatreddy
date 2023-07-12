@@ -13,12 +13,19 @@ Hey there! I'm Dathri Venkat Reddy, a student passionate about technology and co
 
 Here are some of the technologies and tools that I work with:
 
-#### Programming Languages: Python, JavaScript, Java
-- Programming Languages: ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+#### Languages: Python, HTML, CSS, JavaScript
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 - Frameworks: Flask, Node.js
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 - Databases: MySQL, PostgreSQL
-- Version Control: git
-- Other Technologies: Linux, AWS EC2, Azure, Firebase, Supabase
+- Version Control: Git
+- Other Technologies: Linux, AWS EC2, Azure, Firebase, Supabase,
 
 
 
