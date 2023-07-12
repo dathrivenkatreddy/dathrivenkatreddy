@@ -13,7 +13,7 @@ Hey there! I'm Dathri Venkat Reddy, a student passionate about technology and co
 
 Here are some of the technologies and tools that I work with:
 
-### Programming Languages: Python, JavaScript, Java
+#### Programming Languages: Python, JavaScript, Java
 - Programming Languages: ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - Frameworks: Flask, Node.js
 - Databases: MySQL, PostgreSQL
