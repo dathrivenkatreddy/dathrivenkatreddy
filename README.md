@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae419f424d6b250996cfd2?variant=dark)](https://roadmap.sh)
 <!--
 **dathrivenkatreddy/dathrivenkatreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
