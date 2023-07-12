@@ -42,5 +42,4 @@ Here are some of the technologies and tools that I work with:
 ![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae419f424d6b250996cfd2?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae419f424d6b250996cfd2?variant=dark&roadmaps=sql)](https://roadmap.sh)
